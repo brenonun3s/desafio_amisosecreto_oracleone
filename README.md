@@ -34,3 +34,9 @@ Feito com **HTML**, **CSS** e **JavaScript** puro a fim de conclusão do Desafio
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┗ 📜 app.js
+
+ ---
+
+ ## 🌐 Acesse o projeto
+
+ https://desafio-amisosecreto-oracleone.vercel.app/
